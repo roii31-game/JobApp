@@ -11,5 +11,5 @@ Errors for now
  - App doesn't load Nearby Jobs & Popular Jobs because i've reached the rapidapi.com monthly limit of Requests
 
 
-
+Start the app
  - Run the app ----> npm start
