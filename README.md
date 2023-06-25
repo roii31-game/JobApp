@@ -14,3 +14,10 @@ Errors for now
 
 Start the app
  - Run the app ----> npm start
+
+
+
+Pictures from the App
+
+![IMG_6584](https://github.com/roii31-game/JobApp/assets/74428415/715902a7-590b-4be8-9b0f-0a38e6d3b93c)
+![IMG_6585](https://github.com/roii31-game/JobApp/assets/74428415/aa1f2264-2d94-43cb-ab53-d3e75b2297d4)
