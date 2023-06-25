@@ -1,4 +1,5 @@
 This is a job search app which i created with the help of a Youtube tutorial
+I am using ReactNative
 
  
  - App gets data from a temporary API to show all the jobs with Icons, Description, Locations etc.
